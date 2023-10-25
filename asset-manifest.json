@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ebuddy/static/css/main.49aefdfb.css",
+    "main.js": "/Ebuddy/static/js/main.7ec3bb42.js",
+    "static/js/787.a4d79896.chunk.js": "/Ebuddy/static/js/787.a4d79896.chunk.js",
+    "index.html": "/Ebuddy/index.html",
+    "main.49aefdfb.css.map": "/Ebuddy/static/css/main.49aefdfb.css.map",
+    "main.7ec3bb42.js.map": "/Ebuddy/static/js/main.7ec3bb42.js.map",
+    "787.a4d79896.chunk.js.map": "/Ebuddy/static/js/787.a4d79896.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49aefdfb.css",
+    "static/js/main.7ec3bb42.js"
+  ]
+}
